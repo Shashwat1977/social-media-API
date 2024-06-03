@@ -12,7 +12,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n\t\"username\":\"ayushman123\",\r\n\t\"name\":\"Ayushman Srivastava\",\r\n\t\"email\":\"ayush12@gmail.com\"\r\n}",
+					"raw": "{\r\n\t\"username\":\"shashwat123\",\r\n\t\"name\":\"Shashwat Sachan\",\r\n\t\"email\":\"shashwat@gmail.com\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -44,7 +44,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n\t\"username\":\"ayushman123\",\r\n\t\"name\":\"Ayushman Srivastava\",\r\n\t\"email\":\"ayush12@gmail.com\"\r\n}",
+							"raw": "{\r\n\t\"username\":\"shashwat123\",\r\n\t\"name\":\"Shashwat Sachan\",\r\n\t\"email\":\"shashwat@gmail.com\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
